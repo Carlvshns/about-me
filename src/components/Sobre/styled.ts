@@ -5,6 +5,7 @@ export const Container = styled.div`
     float: left;
     margin-bottom: 10px;
     width: 320px;
+    height: 564.391px;
     background-color: #283142;
     border-radius: 10px;
     border: solid;
@@ -36,6 +37,7 @@ export const Container = styled.div`
     @media screen and (max-width: 1035px){
 
         width: 320px;
+        height: 554.391px;
         border: none;
         color: #13ba74;
         float: none;
