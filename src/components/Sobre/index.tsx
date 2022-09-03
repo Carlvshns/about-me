@@ -1,5 +1,6 @@
 import * as C from './styled';
 import { useTypewriter} from 'react-simple-typewriter';
+import dante from '../../assets/dante.png';
 
 export const Sobre = () => {
 
@@ -12,7 +13,7 @@ export const Sobre = () => {
             <br />
             <h3>Carlos Dev</h3>
             <br />
-            <img src="src/assets/dddd.jpg"/>
+            <img src={dante} width="228" height="228"/>
             <br /><br />
             <p>Desenvolvedor backend Java Web e API REST com conhecimentos nas principais
             tecnologias da atualidade como Spring Boot, WebFlux,  Spring Security,  Spring Cloud, Microservices, Thymeleaf,

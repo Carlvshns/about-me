@@ -5,7 +5,7 @@ export const Container = styled.div`
     float: left;
     margin-bottom: 10px;
     width: 320px;
-    height: 564.391px;
+    height: 569.8px;
     background-color: #283142;
     border-radius: 10px;
     border: solid;
@@ -27,8 +27,6 @@ export const Container = styled.div`
 
     img{
 
-        width: 228px;
-        height: 228px;
         border-radius: 50%;
         border: solid;
         border-color: #eb1018;
@@ -42,6 +40,7 @@ export const Container = styled.div`
         color: #13ba74;
         float: none;
         margin: 0 auto;
+	    margin-bottom: 7px;
 
         img{
             border-color: #13ba74;
