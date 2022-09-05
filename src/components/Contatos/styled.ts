@@ -54,7 +54,7 @@ export const Container = styled.div`
         border: none;
         float: none;
         margin: 0 auto;
-        margin-top: 0px;
+        margin-bottom: 5px;
 
         h3 {
             margin: 0px;
