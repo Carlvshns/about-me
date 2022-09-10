@@ -2,7 +2,7 @@ const messages = {
     en: {
         translations: {
             availableLanguages: {
-                language: 'Language'
+                language: 'I d i o m a'
             },
             skills: {
                 mySkills: 'Java Web and REST API backend developer with knowledge of current main technologies such as Spring Boot, WebFlux, Spring Security, Spring Cloud, Microservices, Thymeleaf, Swagger Doc, Design Patterns, Mock, Integration and JUnit Tests. I prefer clean, readable and well-written code to make future maintenance easier to understand.'

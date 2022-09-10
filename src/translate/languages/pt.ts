@@ -2,7 +2,7 @@ const messages = {
     pt: {
         translations: {
             availableLanguages: {
-                language: 'I d i o m a'
+                language: 'Language'
             },
             skills: {
                 mySkills: 'Desenvolvedor backend Java Web e API REST com conhecimentos nas principais tecnologias da atualidade como Spring Boot, WebFlux,  Spring Security,  Spring Cloud, Microservices, Thymeleaf, Swagger Doc, Padrões de Projetos, Mock, Integration e JUnit Tests. Prezo por um código limpo, legível e bem-escrito para facilitar o entendimento em possíveis manutenções.'
