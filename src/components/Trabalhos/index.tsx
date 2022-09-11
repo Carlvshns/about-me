@@ -18,7 +18,7 @@ export const Trabalhos = () => {
                     <br /><br />
                     <div className="sobre-api">
                         <p><>{i18n.t('works.aboutApi')}</></p>
-                        <p><>{i18n.t('works.sourceCode')}</> <a href="https://github.com/Carlvs"><>{i18n.t('works.clickToGit')}</></a></p>
+                        <p><>{i18n.t('works.sourceCode')}</> <a href="https://github.com/Carlvshns"><>{i18n.t('works.clickToGit')}</></a></p>
                         <br/>
                     </div>
                 </div>
